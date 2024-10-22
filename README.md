@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript, ROS and Machine Learning
 - 💞️ I’m looking to collaborate in Hackathons
 - 📫 How to reach me sergi.flores@estudiantat.upc.edu
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I didn't pass the turing test :/
 
 <!---
