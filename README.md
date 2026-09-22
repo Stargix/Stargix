@@ -1,13 +1,13 @@
 🫏 Hi! I am Sergi (Stargix)  
 
-AI student at UPC, mostly into deep learning, computer vision, and robotics. I like building things and experimenting as I go, but I’m also very interested in research and going a bit deeper than just demos.  
+AI student at UPC, currently on exchange at Taiwan-Tech. I’m mostly into deep learning, computer vision, and robotics. I like building things and experimenting as I go, but I’m also very interested in research and going a bit deeper than just demos.
 
-I’m especially curious about how vision, language, and learning-based systems interact, and how they can be applied to real problems. I enjoy collaborating with others, learning fast, and iterating a lot until things start making sense.  
+I’m especially curious about how vision, learning and control interact in robotic systems, particularly when they move, sense, or interact with the world in less conventional ways. I enjoy collaborating with others, learning fast, and iterating a lot until things start making sense.  
 
 I usually work on:
-- Computer vision projects
-- Robotics (perception, ROS)
-- Deep Learning models (Image)
+- Robot Learning (RL, imitation learning)
+- Robotics (manipulation, ROS 2, SLAM)
+- Computer vision and generative models
 - Pretty much whatever the hackathon throws at me
 
 🌐 Portfolio: [https://stargix.dev](https://stargix.dev)  
