@@ -2,7 +2,7 @@
 
 AI student at UPC, currently on exchange at Taiwan-Tech. I’m mostly into deep learning, computer vision, and robotics. I like building things and experimenting as I go, but I’m also very interested in research and going a bit deeper than just demos.
 
-I’m especially curious about how vision, learning and control interact in robotic systems, particularly when they move, sense, or interact with the world in less conventional ways. I enjoy collaborating with others, learning fast, and iterating a lot until things start making sense.  
+I’m especially curious about how vision, learning and control interact in robotic systems, particularly when they move or sense in less conventional ways. I enjoy collaborating with others, learning fast, and iterating until things start making sense.  
 
 I usually work on:
 - Robot Learning (RL, imitation learning)
